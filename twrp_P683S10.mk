@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/zte/P683S10/device.mk)
 
 PRODUCT_DEVICE := P683S10
-PRODUCT_NAME := omni_P683S10
+PRODUCT_NAME := twrp_P683S10
 PRODUCT_BRAND := ZTE
 PRODUCT_MODEL := ZTE 9000N
 PRODUCT_MANUFACTURER := zte
