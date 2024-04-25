@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_P683S10-user
-add_lunch_combo twrp_P683S10-userdebug
-add_lunch_combo twrp_P683S10-eng
+add_lunch_combo omni_P683S10-user
+add_lunch_combo omni_P683S10-userdebug
+add_lunch_combo omni_P683S10-eng
