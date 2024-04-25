@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_P683S10.mk
+    $(LOCAL_DIR)/omni_P683S10.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_P683S10-user \
-    twrp_P683S10-userdebug \
-    twrp_P683S10-eng
+    omni_P683S10-user \
+    omni_P683S10-userdebug \
+    omni_P683S10-eng
