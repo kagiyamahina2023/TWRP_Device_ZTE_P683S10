@@ -6,6 +6,8 @@
 #
 
 LOCAL_PATH := $(call my-dir)
+LOCAL_EXPORT_C_INCLUDE_DIRS := $(LOCAL_PATH)/include
+
 
 ifeq ($(TARGET_DEVICE),P683S10)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
